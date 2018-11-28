@@ -1,0 +1,24 @@
+{
+  "name": "rightmenu",
+  "version": "1.0.2",
+  "description": "Right click menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JinZhenZon/rightmenu.git"
+  },
+  "keywords": [
+    "right",
+    "click",
+    "menu"
+  ],
+  "author": "jinzhenzong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JinZhenZon/rightmenu/issues"
+  },
+  "homepage": "https://github.com/JinZhenZon/rightmenu#readme"
+}
